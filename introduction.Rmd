@@ -1,0 +1,31 @@
+---
+title: "Intro"
+output: html_document
+---
+
+# Introduction  
+  
+
+### Dataset
+    1.Yelp Academic User Dataset
+    2.Yelp Academic Business Dataset
+    3.Yelp Academic Review Dataset
+    
+##### Yelp Restaurant: 
+    1.Visualize on CartoDB maps
+    2.Statistics on Review and Stars (dashboard)
+##### Yelp Reviews_LDA:
+    1.Learn top topics and get topic proportion on top topics
+    2.Word Cloud and Network (between stars and words)
+##### Yelp User:
+    1.Overall Network
+    2.Ego Network
+##### Yelp Business:
+    1.Hierarchical Clustering
+
+  
+  
+
+
+
+
